@@ -1,0 +1,28 @@
+{
+  "name": "jsi-bind",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^1.9.1"
+  },
+  "devDependencies": {
+    "mocha": "^1.19.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/arielspear/jsi-bind.git"
+  },
+  "author": "Ariel and Sam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arielspear/jsi-bind/issues"
+  },
+  "homepage": "https://github.com/arielspear/jsi-bind"
+}

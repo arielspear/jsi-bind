@@ -1,3 +1,5 @@
+var expect = require('chai').expect;
+
 var partialRight = require('../index').partialRight;
 
 describe('partialRight()', function() {
